@@ -183,7 +183,7 @@ This schedule is subject to change.
 | 8 | Wed, Oct 7, 26 | Clustering & Community Detection 2 — Contemporary | Brennan Klein |
 | – | Fri, Oct 9, 26 | *Assignment 2 announced* | |
 | – | Mon, Oct 12, 26 | Indigenous Peoples Day (No Class) | |
-| 9 | Wed, Oct 14, 26 | Guest Speaker | TBD |
+| 9 | Wed, Oct 14, 26 | Two extra chapters to work through on your own (no class meeting) | Brennan Klein |
 | – | Fri, Oct 16, 26 | | |
 | 10 | Mon, Oct 19, 26 | Project Update Presentations | Brennan Klein |
 | 11 | Wed, Oct 21, 26 | Visualization — Python | Brennan Klein |

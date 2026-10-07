@@ -22,8 +22,8 @@ chapters:
     title: "Class 06: Data Science — Pandas & Regressions"
   - file: notebooks/class_07_communities1/class_07_communities1
     title: "Class 07: Clustering & Community Detection 1 — Traditional"
-#  - file: notebooks/class_08_communities2/class_08_communities2
-#    title: "Class 08: Clustering & Community Detection 2 — Contemporary"
+  - file: notebooks/class_08_communities2/class_08_communities2
+    title: "Class 08: Clustering & Community Detection 2 — Contemporary"
 #  - file: notebooks/class_11_visualization/class_11_visualization
 #    title: "Class 11: Visualization — Python"
 #  - file: notebooks/class_12_machine_learning1/class_12_machine_learning1
